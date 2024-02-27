@@ -1,0 +1,64 @@
+{
+  "hash": "facefe75",
+  "configHash": "b1daafa6",
+  "lockfileHash": "d2f82ef7",
+  "browserHash": "473fee88",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "b0da94bf",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "31992d7c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "08622b75",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "47fd45ab",
+      "needsInterop": false
+    },
+    "@fortawesome/angular-fontawesome": {
+      "src": "../../../../../node_modules/@fortawesome/angular-fontawesome/fesm2022/angular-fontawesome.mjs",
+      "file": "@fortawesome_angular-fontawesome.js",
+      "fileHash": "90f0610a",
+      "needsInterop": false
+    },
+    "ngx-sharebuttons/buttons": {
+      "src": "../../../../../node_modules/ngx-sharebuttons/fesm2022/ngx-sharebuttons-buttons.mjs",
+      "file": "ngx-sharebuttons_buttons.js",
+      "fileHash": "888a5ea5",
+      "needsInterop": false
+    },
+    "ngx-sharebuttons/icons": {
+      "src": "../../../../../node_modules/ngx-sharebuttons/fesm2022/ngx-sharebuttons-icons.mjs",
+      "file": "ngx-sharebuttons_icons.js",
+      "fileHash": "fdfca881",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GDM3WIT2": {
+      "file": "chunk-GDM3WIT2.js"
+    },
+    "chunk-237HRUMH": {
+      "file": "chunk-237HRUMH.js"
+    },
+    "chunk-TPNJYKY4": {
+      "file": "chunk-TPNJYKY4.js"
+    },
+    "chunk-MEBZYEDQ": {
+      "file": "chunk-MEBZYEDQ.js"
+    }
+  }
+}
